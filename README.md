@@ -29,7 +29,7 @@ An example of an asynchronous Python service designed to process messages from R
     - `host`: `localhost`
     - `port`: `6379`
     - `stream_name`: `user_stream`
-    - `group_name`: `user_group`![Screencast-from-2025-01-04-16-18-33-_online-video-cutter com_]
+    - `group_name`: `user_group`
 
 
 ### **Usage Example:**
