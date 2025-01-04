@@ -1,4 +1,4 @@
-# Redis Streams Consumer Service
+# Redis Streams Python Consumer Service
 An example of an asynchronous Python service designed to process messages from Redis Streams
 ![Exmaple:](images/example.gif)
 
