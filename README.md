@@ -1,6 +1,6 @@
 # Redis Streams Consumer Service
 An example of an asynchronous Python service designed to process messages from Redis Streams
-(https://github.com/user-attachments/assets/c7cb9fe5-9a68-4339-97f2-ef73c17600a5)
+![Exmaple:](images/example.gif)
 
 ### **Key Features:**
 - **Connection to Redis Streams:** Supports the creation and use of consumer groups for efficient load distribution across multiple consumer instances.
